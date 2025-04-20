@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Ian James Ian</h1>
+<h1 align="center">Hi 👋, I'm James Ian</h1>
 <h3 align="center">A passionate programmer striving to become a full-Stack Developer.</h3>
 
 - ⚡ Fun fact **I love turtle's**
